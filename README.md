@@ -1,13 +1,16 @@
-# 6th-Semester
-Resources I used during my 6th semester term. 
+# README
 
+## Microservices-Gateway-Configuration-Discovery-Spring-Cloud
 
-# External Resources: 
+Configuration Repo\(Without Cipher\): [https://github.com/arfin97/Spring-Cloud-Configuration-Repo](https://github.com/arfin97/Spring-Cloud-Configuration-Repo)
 
-## Data Communication
+## Documentation:
 
-## Assembly
+\[ Will be updated soon \]
 
-## Bioinformatrix 
+## References: \[ Will be updated \]
 
-## Numerical Methods
+1. Spring Cloud Discovery
+2. Spring Cloud Gateway
+3. Spring Cloud Configuration
+
